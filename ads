@@ -1,4 +1,4 @@
 {"ip":"https://t.me/FHAADM",
-"img":"https://mrnoegyi.com/wp-content/uploads/2022/05/7-frame.gif",
-"mg":"https://nauthers.sirv.com/CM/Website/Club388%20CM%20Banner.gif",
+"img":"https://media1.tenor.com/images/3c73340a9e57c096140274c18739f2d3/tenor.gif?itemid=25810545",
+"mg":"https://media1.tenor.com/images/3c73340a9e57c096140274c18739f2d3/tenor.gif?itemid=25810545",
 "link":"https://t.me/FHAADM"}
