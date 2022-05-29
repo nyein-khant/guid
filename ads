@@ -1,1 +1,1 @@
-{"link":"t.me/FHAADM"}
+{"ip":"https://t.me/FHAADM"}
