@@ -1,4 +1,4 @@
 {"ip":"https://t.me/FHAADM",
-"img":"https://media1.tenor.com/images/3c73340a9e57c096140274c18739f2d3/tenor.gif?itemid=25810545",
-"mg":"https://media1.tenor.com/images/3c73340a9e57c096140274c18739f2d3/tenor.gif?itemid=25810545",
+"img":"https://channelmyanmar.org/wp-content/uploads/2022/06/vipclub-mm-7.gif",
+"mg":"https://channelmyanmar.org/wp-content/uploads/2022/06/vipclub-mm-7.gif",
 "link":"https://t.me/FHAADM"}
